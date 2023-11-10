@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#3498db"
+    android:gravity="center">
+
+<Button
+android:id="@+id/btnHome"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:text="Home"
+android:textColor="#ffffff"/> <!-- Change the text color as needed -->
+
+<Button
+android:id="@+id/btnAccessManagement"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:text="Access Management"
+android:textColor="#ffffff"/> <!-- Change the text color as needed -->
+
+<Button
+android:id="@+id/btnActivityLog"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:text="Activity Log"
+android:textColor="#ffffff"/> <!-- Change the text color as needed -->
+
+<Button
+android:id="@+id/btnSettings"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:text="Settings"
+android:textColor="#ffffff"/> <!-- Change the text color as needed -->
+
+<Button
+android:id="@+id/btnEmergency"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:text="Emergency"
+android:textColor="#ffffff"/> <!-- Change the text color as needed -->
+    </LinearLayout>
