@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579919567627",
+    "project_id": "smart-d64fd",
+    "storage_bucket": "smart-d64fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579919567627:android:07e4d5904c63802bc7200e",
+        "android_client_info": {
+          "package_name": "com.example.smartsecure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnf59vMuJtvqKM16Wss5Dl8HrwlVyabCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

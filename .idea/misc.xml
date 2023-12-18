@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/drawable/red_circle.xml" value="0.1" />
+        <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/layout/activity_log_in.xml" value="0.1" />
+        <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/layout/activity_main.xml" value="0.10877192982456141" />
         <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/layout/bottom_nav_menu.xml" value="0.10587639311043566" />
         <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/layout/header_menu.xml" value="0.1" />
         <entry key="..\:/Users/sophi/AndroidStudioProjects/SmartSecure/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21388888888888888" />
