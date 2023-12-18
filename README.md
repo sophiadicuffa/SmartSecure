@@ -1,4 +1,4 @@
-SmartSecure - 
+SmartSecure - Senior Design project @ Stevens Institute of Technology
 
 SmartSecure addresses the pressing need for an innovative door lock system that seamlessly integrates the security attributes of traditional mechanical locks with the user-friendly convenience of modern technological locks. Our approach involves the utilization of Near Field Communication (NFC) technology to establish a secure connection between the resident's smartphone and the door lock, serving as the primary method for user authentication. 
 
